@@ -3,7 +3,7 @@ Major Algorithms to implement different supervised and unsupervised Machine Lear
 
 These files shows my journey of Learning Machine Learning. These are not an implementation of a final project but rather shows how I learned Machine Learning and then tried to apply those concepts.
 
-These files include both sklearn part of implementation and also my own implementation of Machine Learning Algorithm.
+These files include both sklearn part of implementation and also my own scratch construction of these classical Machine Learning Algorithms.
 
 Includes almost all of the main ML algorithms(KNN,SVM,Regression,MeanShift).
 
